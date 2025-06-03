@@ -1,0 +1,3 @@
+[run]
+source = momono_hizkia
+omit = momono_hizkia/test*
